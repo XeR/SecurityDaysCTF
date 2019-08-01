@@ -1,0 +1,3 @@
+CFLAGS+=-no-pie
+
+main:
